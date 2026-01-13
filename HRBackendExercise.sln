@@ -4,9 +4,7 @@ VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRBackendExercise.API", "HRBackendExercise.API\HRBackendExercise.API.csproj", "{B63BA685-DE65-98A9-EE04-5478DD7B39D6}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{0AB3BF05-4346-4AA6-1389-037BE0695223}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRBackendExercise.API.Tests", "HRBackendExercise.API\Tests\HRBackendExercise.API.Tests.csproj", "{66B81971-B435-7BBE-CB40-B9ECF432A67D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRBackendExercise.API.Tests", "HRBackendExercise.API.Tests\HRBackendExercise.API.Tests.csproj", "{66B81971-B435-7BBE-CB40-B9ECF432A67D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,9 +24,7 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{66B81971-B435-7BBE-CB40-B9ECF432A67D} = {0AB3BF05-4346-4AA6-1389-037BE0695223}
-	EndGlobalSection
+
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C0428471-8071-4CF5-B0AE-BB1592D5AAF5}
 	EndGlobalSection

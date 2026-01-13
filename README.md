@@ -20,10 +20,10 @@ HRBackEndExercise/
 │   ├── Controllers/                # API Controllers
 │   ├── Models/                     # Data models
 │   ├── Services/                   # Business logic
-│   ├── Tests/                      # Unit Tests
-│   │   ├── Controllers/            # Controller tests
-│   │   └── Services/               # Service tests
 │   └── Program.cs                  # Application entry point
+├── HRBackendExercise.API.Tests/    # Unit Tests Project
+│   ├── Controllers/                # Controller tests
+│   └── Services/                   # Service tests
 └── HRBackendExercise.sln           # Solution file
 ```
 
